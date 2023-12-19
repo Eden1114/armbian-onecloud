@@ -1,12 +1,7 @@
 name: CI
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - readme
-    paths:
-      - .github/workflows/ci.yml
+on: push
+
 
 env:
   SCRIPT_REPO: ${{ github.repository }}
