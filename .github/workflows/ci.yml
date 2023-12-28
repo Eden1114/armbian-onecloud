@@ -10,7 +10,7 @@ env:
   UBOOT_RELEASE: latest
   UBOOT_BURNIMG: eMMC.burn.img
   ARMBIAN_REPO: eden1114/armbian-onecloud
-  ARMBIAN_REF: v23.11
+  ARMBIAN_REF: v23.11_can
   PATCHES: 4077,5076
   PATCHES_DISABLED: 5082
 
