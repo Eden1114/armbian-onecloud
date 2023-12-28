@@ -9,8 +9,8 @@ env:
   UBOOT_REPO: hzyitc/u-boot-onecloud
   UBOOT_RELEASE: latest
   UBOOT_BURNIMG: eMMC.burn.img
-  ARMBIAN_REPO: armbian/build
-  ARMBIAN_REF: main
+  ARMBIAN_REPO: eden1114/armbian-onecloud
+  ARMBIAN_REF: v23.11
   PATCHES: 4077,5076
   PATCHES_DISABLED: 5082
 
